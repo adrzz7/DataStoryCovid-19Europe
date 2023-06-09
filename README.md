@@ -1,5 +1,6 @@
 # DataStoryCovid-19Europe
-Visualizing the Outbreak: Subnational COVID-19 Data in Europe
+Visualizing the Outbreak: Subnational COVID-19 Data in Europe.
+
 Created a Data Story from a Covid 19 in Europe dataset by using Tableau.
 
 My data set is file name is europe-coronavirus-covid-19-subnational-cases-1.csv. It contains the number of confirmed cases, recoveries and deaths by country and subnational region due to the Coronavirus pandemic in Europe.
