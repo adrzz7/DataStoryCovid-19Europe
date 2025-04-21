@@ -1,8 +1,26 @@
-# DataStoryCovid-19Europe
-Visualizing the Outbreak: Subnational COVID-19 Data in Europe.
+# COVID-19 in Europe – Interactive Data Story (Tableau)
 
-Created a Data Story from a Covid 19 in Europe dataset by using Tableau.
+An individual project that visualizes the COVID-19 pandemic across various European countries from 2020–2021. Created using Tableau to highlight case trends, death rates, and recovery outcomes with interactive storytelling techniques.
 
-My data set is file name is europe-coronavirus-covid-19-subnational-cases-1.csv. It contains the number of confirmed cases, recoveries and deaths by country and subnational region due to the Coronavirus pandemic in Europe.
+## 🛠 Tools Used
+- Tableau
+- Excel (for data cleaning)
+- Public health datasets (COVID-19 Europe)
 
-In designing the visualizations for the data story, I followed Shaffer's 4Cs, which includes four key principles: Clear, Clean, Concise, and Captivating. Here's how the visualizations in the data story fulfil each of these design principles.
+## 📌 Key Features
+- Time-series visualizations of confirmed cases and deaths
+- Mortality rate comparisons between countries
+- Interactive filters for timeline and country selection
+- Highlight tables and trend lines for better storytelling
+
+## 🧠 Skills Demonstrated
+- Data visualization
+- Data storytelling
+- Comparative analytics
+- Dashboard design in Tableau
+
+
+## 📁 Files
+- `COVID19_Europe.xlsx`: Cleaned dataset used for Tableau  
+- `Data_Story_Slides.pdf`: Slides explaining key findings (optional if you have them)
+
